@@ -1,4 +1,4 @@
-# P2 · Lead Scoring — Claro Perú (v2)
+# P2 · Lead Scoring — Telco (v2)
 
 ## Arquitectura corregida
 **Near-real-time** · Pub/Sub → Cloud Function → Vertex AI Endpoint → CRM
